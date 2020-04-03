@@ -8,7 +8,7 @@ def readme():
 
 
 setup(
-    name='ratelimit',
+    name='ratelimit-stubs',
     version='2.2.1',
     description='Stub for ratelimit',
     long_description=readme().strip(),
