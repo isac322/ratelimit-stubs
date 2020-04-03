@@ -16,7 +16,7 @@ setup(
     author_email='bh322yoo@gmail.com',
     url='https://github.com/isac322/ratelimit-stubs',
     license='MIT',
-    packages=['ratelimit_stubs'],
+    packages=['ratelimit-stubs'],
     install_requires=[],
     keywords=[
         'ratelimit',
